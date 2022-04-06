@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BeaParPol
+- 👀 I’m interested in GitHub
+- 🌱 I’m currently learning about GitHub
+- 💞️ This is a personal project
